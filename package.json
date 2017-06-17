@@ -1,0 +1,25 @@
+{
+  "name": "node-soap",
+  "version": "1.0.0",
+  "description": "nodejs soap service",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChenWes/node-ArasInnovatorSOAP.git"
+  },
+  "keywords": [
+    "nodejs",
+    "aras innovator",
+    "soap"
+  ],
+  "author": "weschen (chenxuhua0530@163.com)",
+  "license": "ISC",
+  "dependencies": {
+    "https-proxy-agent": "^1.0.0",
+    "md5": "^2.2.1",
+    "request": "^2.81.0"
+  }
+}
